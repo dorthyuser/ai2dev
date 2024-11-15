@@ -1,0 +1,166 @@
+[11-Nov-2024 11:37:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/skywizmedia/public_html/dev/civo/db_connect.php:7
+Stack trace:
+#0 /home/skywizmedia/public_html/dev/civo/db_connect.php(7): mysqli_connect()
+#1 /home/skywizmedia/public_html/dev/civo/login.php(2): include('/home/skywizmed...')
+#2 {main}
+  thrown in /home/skywizmedia/public_html/dev/civo/db_connect.php on line 7
+[11-Nov-2024 11:37:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/skywizmedia/public_html/dev/civo/db_connect.php:7
+Stack trace:
+#0 /home/skywizmedia/public_html/dev/civo/db_connect.php(7): mysqli_connect()
+#1 /home/skywizmedia/public_html/dev/civo/login.php(2): include('/home/skywizmed...')
+#2 {main}
+  thrown in /home/skywizmedia/public_html/dev/civo/db_connect.php on line 7
+[11-Nov-2024 11:38:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/skywizmedia/public_html/dev/civo/db_connect.php:7
+Stack trace:
+#0 /home/skywizmedia/public_html/dev/civo/db_connect.php(7): mysqli_connect()
+#1 /home/skywizmedia/public_html/dev/civo/login.php(2): include('/home/skywizmed...')
+#2 {main}
+  thrown in /home/skywizmedia/public_html/dev/civo/db_connect.php on line 7
+[11-Nov-2024 11:42:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/skywizmedia/public_html/dev/civo/db_connect.php:7
+Stack trace:
+#0 /home/skywizmedia/public_html/dev/civo/db_connect.php(7): mysqli_connect()
+#1 /home/skywizmedia/public_html/dev/civo/login.php(2): include('/home/skywizmed...')
+#2 {main}
+  thrown in /home/skywizmedia/public_html/dev/civo/db_connect.php on line 7
+[11-Nov-2024 11:42:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/skywizmedia/public_html/dev/civo/db_connect.php:7
+Stack trace:
+#0 /home/skywizmedia/public_html/dev/civo/db_connect.php(7): mysqli_connect()
+#1 /home/skywizmedia/public_html/dev/civo/login.php(2): include('/home/skywizmed...')
+#2 {main}
+  thrown in /home/skywizmedia/public_html/dev/civo/db_connect.php on line 7
+[11-Nov-2024 11:42:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/skywizmedia/public_html/dev/civo/db_connect.php:7
+Stack trace:
+#0 /home/skywizmedia/public_html/dev/civo/db_connect.php(7): mysqli_connect()
+#1 /home/skywizmedia/public_html/dev/civo/login.php(2): include('/home/skywizmed...')
+#2 {main}
+  thrown in /home/skywizmedia/public_html/dev/civo/db_connect.php on line 7
+[11-Nov-2024 11:42:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/skywizmedia/public_html/dev/civo/db_connect.php:7
+Stack trace:
+#0 /home/skywizmedia/public_html/dev/civo/db_connect.php(7): mysqli_connect()
+#1 /home/skywizmedia/public_html/dev/civo/login.php(2): include('/home/skywizmed...')
+#2 {main}
+  thrown in /home/skywizmedia/public_html/dev/civo/db_connect.php on line 7
+[11-Nov-2024 11:42:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/skywizmedia/public_html/dev/civo/db_connect.php:7
+Stack trace:
+#0 /home/skywizmedia/public_html/dev/civo/db_connect.php(7): mysqli_connect()
+#1 /home/skywizmedia/public_html/dev/civo/login.php(2): include('/home/skywizmed...')
+#2 {main}
+  thrown in /home/skywizmedia/public_html/dev/civo/db_connect.php on line 7
+[11-Nov-2024 11:43:16 UTC] PHP Warning:  Undefined variable $okE in /home/skywizmedia/public_html/dev/civo/db_connect.php on line 4
+[11-Nov-2024 11:43:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'civo123'@'localhost' (using password: YES) in /home/skywizmedia/public_html/dev/civo/db_connect.php:7
+Stack trace:
+#0 /home/skywizmedia/public_html/dev/civo/db_connect.php(7): mysqli_connect()
+#1 /home/skywizmedia/public_html/dev/civo/login.php(2): include('/home/skywizmed...')
+#2 {main}
+  thrown in /home/skywizmedia/public_html/dev/civo/db_connect.php on line 7
+[11-Nov-2024 11:43:18 UTC] PHP Warning:  Undefined variable $okE in /home/skywizmedia/public_html/dev/civo/db_connect.php on line 4
+[11-Nov-2024 11:43:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'civo123'@'localhost' (using password: YES) in /home/skywizmedia/public_html/dev/civo/db_connect.php:7
+Stack trace:
+#0 /home/skywizmedia/public_html/dev/civo/db_connect.php(7): mysqli_connect()
+#1 /home/skywizmedia/public_html/dev/civo/login.php(2): include('/home/skywizmed...')
+#2 {main}
+  thrown in /home/skywizmedia/public_html/dev/civo/db_connect.php on line 7
+[11-Nov-2024 11:43:33 UTC] PHP Warning:  Undefined variable $okE in /home/skywizmedia/public_html/dev/civo/db_connect.php on line 4
+[11-Nov-2024 11:43:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'civo123'@'localhost' (using password: YES) in /home/skywizmedia/public_html/dev/civo/db_connect.php:7
+Stack trace:
+#0 /home/skywizmedia/public_html/dev/civo/db_connect.php(7): mysqli_connect()
+#1 /home/skywizmedia/public_html/dev/civo/login.php(2): include('/home/skywizmed...')
+#2 {main}
+  thrown in /home/skywizmedia/public_html/dev/civo/db_connect.php on line 7
+[11-Nov-2024 11:43:35 UTC] PHP Warning:  Undefined variable $okE in /home/skywizmedia/public_html/dev/civo/db_connect.php on line 4
+[11-Nov-2024 11:43:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'civo123'@'localhost' (using password: YES) in /home/skywizmedia/public_html/dev/civo/db_connect.php:7
+Stack trace:
+#0 /home/skywizmedia/public_html/dev/civo/db_connect.php(7): mysqli_connect()
+#1 /home/skywizmedia/public_html/dev/civo/login.php(2): include('/home/skywizmed...')
+#2 {main}
+  thrown in /home/skywizmedia/public_html/dev/civo/db_connect.php on line 7
+[11-Nov-2024 11:43:42 UTC] PHP Warning:  Undefined variable $okE in /home/skywizmedia/public_html/dev/civo/db_connect.php on line 4
+[11-Nov-2024 11:43:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'civo123'@'localhost' (using password: YES) in /home/skywizmedia/public_html/dev/civo/db_connect.php:7
+Stack trace:
+#0 /home/skywizmedia/public_html/dev/civo/db_connect.php(7): mysqli_connect()
+#1 /home/skywizmedia/public_html/dev/civo/login.php(2): include('/home/skywizmed...')
+#2 {main}
+  thrown in /home/skywizmedia/public_html/dev/civo/db_connect.php on line 7
+[11-Nov-2024 11:46:02 UTC] PHP Warning:  Undefined array key "email" in /home/skywizmedia/public_html/dev/civo/dashboard.php on line 4
+[11-Nov-2024 12:14:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/skywizmedia/public_html/dev/civo/db_connect.php:7
+Stack trace:
+#0 /home/skywizmedia/public_html/dev/civo/db_connect.php(7): mysqli_connect()
+#1 /home/skywizmedia/public_html/dev/civo/listcluster.php(2): include('/home/skywizmed...')
+#2 {main}
+  thrown in /home/skywizmedia/public_html/dev/civo/db_connect.php on line 7
+[11-Nov-2024 12:14:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/skywizmedia/public_html/dev/civo/db_connect.php:7
+Stack trace:
+#0 /home/skywizmedia/public_html/dev/civo/db_connect.php(7): mysqli_connect()
+#1 /home/skywizmedia/public_html/dev/civo/listcluster.php(2): include('/home/skywizmed...')
+#2 {main}
+  thrown in /home/skywizmedia/public_html/dev/civo/db_connect.php on line 7
+[11-Nov-2024 12:14:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/skywizmedia/public_html/dev/civo/db_connect.php:7
+Stack trace:
+#0 /home/skywizmedia/public_html/dev/civo/db_connect.php(7): mysqli_connect()
+#1 /home/skywizmedia/public_html/dev/civo/listcluster.php(2): include('/home/skywizmed...')
+#2 {main}
+  thrown in /home/skywizmedia/public_html/dev/civo/db_connect.php on line 7
+[11-Nov-2024 12:15:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/skywizmedia/public_html/dev/civo/db_connect.php:7
+Stack trace:
+#0 /home/skywizmedia/public_html/dev/civo/db_connect.php(7): mysqli_connect()
+#1 /home/skywizmedia/public_html/dev/civo/login.php(2): include('/home/skywizmed...')
+#2 {main}
+  thrown in /home/skywizmedia/public_html/dev/civo/db_connect.php on line 7
+[11-Nov-2024 12:15:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/skywizmedia/public_html/dev/civo/db_connect.php:7
+Stack trace:
+#0 /home/skywizmedia/public_html/dev/civo/db_connect.php(7): mysqli_connect()
+#1 /home/skywizmedia/public_html/dev/civo/login.php(2): include('/home/skywizmed...')
+#2 {main}
+  thrown in /home/skywizmedia/public_html/dev/civo/db_connect.php on line 7
+[12-Nov-2024 04:39:31 UTC] PHP Warning:  Undefined array key "email" in /home/skywizmedia/public_html/dev/civo/cluster.php on line 4
+[12-Nov-2024 07:21:47 UTC] PHP Warning:  Undefined array key "email" in /home/skywizmedia/public_html/dev/civo/cluster.php on line 4
+[12-Nov-2024 08:45:23 UTC] PHP Warning:  Undefined array key "email" in /home/skywizmedia/public_html/dev/civo/application.php on line 4
+[12-Nov-2024 09:00:13 UTC] PHP Warning:  Undefined array key "email" in /home/skywizmedia/public_html/dev/civo/cluster.php on line 4
+[12-Nov-2024 10:37:25 UTC] PHP Warning:  Undefined array key "email" in /home/skywizmedia/public_html/dev/civo/dashboard.php on line 4
+[12-Nov-2024 11:16:04 UTC] PHP Warning:  unlink(uploads/): Is a directory in /home/skywizmedia/public_html/dev/civo/dashboard.php on line 33
+[12-Nov-2024 11:21:02 UTC] PHP Warning:  unlink(uploads/): Is a directory in /home/skywizmedia/public_html/dev/civo/dashboard.php on line 33
+[12-Nov-2024 11:39:27 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/skywizmedia/public_html/dev/civo/listcluster.php:198
+Stack trace:
+#0 /home/skywizmedia/public_html/dev/civo/listcluster.php(198): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/skywizmedia/public_html/dev/civo/listcluster.php on line 198
+[12-Nov-2024 11:39:37 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/skywizmedia/public_html/dev/civo/listcluster.php:198
+Stack trace:
+#0 /home/skywizmedia/public_html/dev/civo/listcluster.php(198): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/skywizmedia/public_html/dev/civo/listcluster.php on line 198
+[12-Nov-2024 11:40:21 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/skywizmedia/public_html/dev/civo/listcluster.php:198
+Stack trace:
+#0 /home/skywizmedia/public_html/dev/civo/listcluster.php(198): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/skywizmedia/public_html/dev/civo/listcluster.php on line 198
+[12-Nov-2024 11:40:29 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/skywizmedia/public_html/dev/civo/listcluster.php:198
+Stack trace:
+#0 /home/skywizmedia/public_html/dev/civo/listcluster.php(198): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/skywizmedia/public_html/dev/civo/listcluster.php on line 198
+[12-Nov-2024 11:45:08 UTC] PHP Warning:  Undefined array key "email" in /home/skywizmedia/public_html/dev/civo/cluster.php on line 4
+[12-Nov-2024 12:06:53 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/skywizmedia/public_html/dev/civo/listcluster.php:198
+Stack trace:
+#0 /home/skywizmedia/public_html/dev/civo/listcluster.php(198): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/skywizmedia/public_html/dev/civo/listcluster.php on line 198
+[12-Nov-2024 12:07:00 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/skywizmedia/public_html/dev/civo/listcluster.php:198
+Stack trace:
+#0 /home/skywizmedia/public_html/dev/civo/listcluster.php(198): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/skywizmedia/public_html/dev/civo/listcluster.php on line 198
+[12-Nov-2024 15:40:46 UTC] PHP Warning:  Undefined array key "email" in /home/skywizmedia/public_html/dev/civo/dashboard.php on line 4
+[13-Nov-2024 04:35:25 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/skywizmedia/public_html/dev/civo/listcluster.php:198
+Stack trace:
+#0 /home/skywizmedia/public_html/dev/civo/listcluster.php(198): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/skywizmedia/public_html/dev/civo/listcluster.php on line 198
+[13-Nov-2024 07:19:00 UTC] PHP Warning:  Undefined array key "email" in /home/skywizmedia/public_html/dev/civo/cluster.php on line 4
+[13-Nov-2024 08:56:23 UTC] PHP Warning:  Undefined array key "email" in /home/skywizmedia/public_html/dev/civo/dashboard.php on line 4
+[13-Nov-2024 10:05:16 UTC] PHP Warning:  Undefined array key "email" in /home/skywizmedia/public_html/dev/ai2dev/dashboard.php on line 4
+[13-Nov-2024 12:23:41 UTC] PHP Warning:  Undefined array key "email" in /home/skywizmedia/public_html/dev/ai2dev/dashboard.php on line 4
+[13-Nov-2024 13:51:25 UTC] PHP Warning:  Undefined array key "email" in /home/skywizmedia/public_html/dev/ai2dev/dashboard.php on line 4
+[13-Nov-2024 13:53:43 UTC] PHP Warning:  Undefined array key "email" in /home/skywizmedia/public_html/dev/ai2dev/dashboard.php on line 4
+[13-Nov-2024 14:03:36 UTC] PHP Warning:  unlink(uploads/): Is a directory in /home/skywizmedia/public_html/dev/ai2dev/editimage.php on line 18
+[13-Nov-2024 20:50:50 UTC] PHP Warning:  Undefined array key "email" in /home/skywizmedia/public_html/dev/ai2dev/dashboard.php on line 4
