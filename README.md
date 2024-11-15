@@ -8,4 +8,4 @@ release-yyyymm or release-yyyymmdd
 For production code, this should be 
 master branch.
 
-
+Later yyyymmdd can be replaced with ticket number.
